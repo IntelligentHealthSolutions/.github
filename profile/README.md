@@ -1,4 +1,4 @@
-# .github
+# Intelligent Health Solutions
 
 Welcome to the Intelligent Health Solutions github organization.
 
