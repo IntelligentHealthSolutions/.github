@@ -5,7 +5,7 @@ Welcome to the Intelligent Health Solutions github organization.
 ## Common Terms
 
 ADT
-: [TODO!]
+: [A]ndrogen [D]eprivation [T]herapy, a type of (hormone therapy) treatment for prostate cancer
 
 ASTRO
 : [A]merican [S]ocie[t]y for [R]adiation [O]ncology
